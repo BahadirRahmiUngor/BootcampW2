@@ -1,0 +1,2 @@
+com/example/splashscreen/BuildConfig.java
+ com.example.splashscreen.BuildConfig

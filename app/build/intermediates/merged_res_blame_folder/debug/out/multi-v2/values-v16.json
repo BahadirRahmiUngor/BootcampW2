@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Bahadir\\AndroidStudioProjects\\Bireysel\\MyRepo\\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bahadir\\.gradle\\caches\\transforms-3\\415cba588d797e120f1f04431e37e803\\transformed\\core-1.3.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bahadir\\.gradle\\caches\\transforms-3\\796113c09c466b926f223caa4fd2a847\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

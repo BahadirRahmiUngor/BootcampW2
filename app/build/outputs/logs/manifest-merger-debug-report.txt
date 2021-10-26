@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\Bahadir\.gradle\caches\transforms-3\c0ab12b92cfd6a251f65fe913615ae7e\transformed\material-1.3.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Bahadir\.gradle\caches\transforms-3\be39798e8bac4052ecaeb8d48051b0ba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\796113c09c466b926f223caa4fd2a847\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\d823ddd318c76fe660c4236cc9b95df1\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\574ce1834f64ee47429332a1e26f763e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\183289b1ad0a93b60a1466984e3c7f3c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\81e2f3441324ea425996e5dfb1c3ae5a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3a572ac01d39e3ea2e72d41571430b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\c79feb4b467e477c98fe85acf17858d7\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5b9e7b35d86e5aece4fe9aeeae7a85d1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3dc49fccfd0c253640b2d0f06509c0d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2026e0cd9a39a3a0d61fff3377877666\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\97962671343120e061ddc00ff6507a72\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\bfed769edd40eae3241ae0635517c752\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a1c71ee0ed1c8c34a19ff014daf2103b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\ab1c1708b1e7a580bf35bc5cda2c52db\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5d2572f0491820dc0c68f1ac8e0dbb47\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\7a4a0c2302b41bb69e4d18a936348a36\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a385348d83b2ce28aa1ddabff3c94a45\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\019aab4a347c800c663f069cc5ec564b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\30b7322644bde652873ab510659d3151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2bc165e737d491d1d22416f836bc63c0\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e60d835b52c2799aa6284528f1e7e4e3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\dc143339dd41d187f218b8a079c16e40\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b2c09a0f2ed937a33ded2bc78b0e7b37\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\52c692f32f93b6befc718e720977e84f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\33d376987744739103595f95d14307e5\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\22f134f784dc2743e3422e594550be63\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2a3743ca2fa76360d317d098d9384413\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0d2a6e8e0b580b6dd159501d22e64b75\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\43666c4c07027ab8a471365f37d1829a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e49b26b918b7a71f8c7b06c1e5dae171\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\f85e6133bc92275559986eab66c06e6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3bb3e374d070c4535562d886c482b09b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e081432721cd9382078a0af5f46eac5e\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\db7b9bb179a598e855da19811e027ead\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0121eab1467c5403ca524bf1bee34475\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0a4d4613b03e80726669bc79819b1560\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b4769e3ff3ad907ea08ed3cc6b247e1f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\Bahadir\.gradle\caches\transforms-3\c0ab12b92cfd6a251f65fe913615ae7e\transformed\material-1.3.0-alpha04\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\Bahadir\.gradle\caches\transforms-3\c0ab12b92cfd6a251f65fe913615ae7e\transformed\material-1.3.0-alpha04\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Bahadir\.gradle\caches\transforms-3\be39798e8bac4052ecaeb8d48051b0ba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Bahadir\.gradle\caches\transforms-3\be39798e8bac4052ecaeb8d48051b0ba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\33d376987744739103595f95d14307e5\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\33d376987744739103595f95d14307e5\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.example.splashscreen.TestActivity
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:12:9-15:15
+	android:exported
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.splashscreen.SplashScreenActivity
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:17:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.splashscreen.MainActivity
+ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml:26:13-41
+uses-sdk
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\Bahadir\.gradle\caches\transforms-3\c0ab12b92cfd6a251f65fe913615ae7e\transformed\material-1.3.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\Bahadir\.gradle\caches\transforms-3\c0ab12b92cfd6a251f65fe913615ae7e\transformed\material-1.3.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Bahadir\.gradle\caches\transforms-3\be39798e8bac4052ecaeb8d48051b0ba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Bahadir\.gradle\caches\transforms-3\be39798e8bac4052ecaeb8d48051b0ba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\796113c09c466b926f223caa4fd2a847\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\796113c09c466b926f223caa4fd2a847\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\d823ddd318c76fe660c4236cc9b95df1\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\d823ddd318c76fe660c4236cc9b95df1\transformed\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\574ce1834f64ee47429332a1e26f763e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\574ce1834f64ee47429332a1e26f763e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\183289b1ad0a93b60a1466984e3c7f3c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\183289b1ad0a93b60a1466984e3c7f3c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\81e2f3441324ea425996e5dfb1c3ae5a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\81e2f3441324ea425996e5dfb1c3ae5a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3a572ac01d39e3ea2e72d41571430b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3a572ac01d39e3ea2e72d41571430b91\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\c79feb4b467e477c98fe85acf17858d7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\c79feb4b467e477c98fe85acf17858d7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5b9e7b35d86e5aece4fe9aeeae7a85d1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5b9e7b35d86e5aece4fe9aeeae7a85d1\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3dc49fccfd0c253640b2d0f06509c0d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3dc49fccfd0c253640b2d0f06509c0d5\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2026e0cd9a39a3a0d61fff3377877666\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2026e0cd9a39a3a0d61fff3377877666\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\97962671343120e061ddc00ff6507a72\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\97962671343120e061ddc00ff6507a72\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\bfed769edd40eae3241ae0635517c752\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\bfed769edd40eae3241ae0635517c752\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a1c71ee0ed1c8c34a19ff014daf2103b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a1c71ee0ed1c8c34a19ff014daf2103b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\ab1c1708b1e7a580bf35bc5cda2c52db\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\ab1c1708b1e7a580bf35bc5cda2c52db\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5d2572f0491820dc0c68f1ac8e0dbb47\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\5d2572f0491820dc0c68f1ac8e0dbb47\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\7a4a0c2302b41bb69e4d18a936348a36\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\7a4a0c2302b41bb69e4d18a936348a36\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a385348d83b2ce28aa1ddabff3c94a45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\a385348d83b2ce28aa1ddabff3c94a45\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\019aab4a347c800c663f069cc5ec564b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\019aab4a347c800c663f069cc5ec564b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\30b7322644bde652873ab510659d3151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\30b7322644bde652873ab510659d3151\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2bc165e737d491d1d22416f836bc63c0\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2bc165e737d491d1d22416f836bc63c0\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e60d835b52c2799aa6284528f1e7e4e3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e60d835b52c2799aa6284528f1e7e4e3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\dc143339dd41d187f218b8a079c16e40\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\dc143339dd41d187f218b8a079c16e40\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b2c09a0f2ed937a33ded2bc78b0e7b37\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b2c09a0f2ed937a33ded2bc78b0e7b37\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\52c692f32f93b6befc718e720977e84f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\52c692f32f93b6befc718e720977e84f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Bahadir\.gradle\caches\transforms-3\415cba588d797e120f1f04431e37e803\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\33d376987744739103595f95d14307e5\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\33d376987744739103595f95d14307e5\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\22f134f784dc2743e3422e594550be63\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\22f134f784dc2743e3422e594550be63\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2a3743ca2fa76360d317d098d9384413\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\2a3743ca2fa76360d317d098d9384413\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0d2a6e8e0b580b6dd159501d22e64b75\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0d2a6e8e0b580b6dd159501d22e64b75\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\43666c4c07027ab8a471365f37d1829a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\43666c4c07027ab8a471365f37d1829a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e49b26b918b7a71f8c7b06c1e5dae171\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e49b26b918b7a71f8c7b06c1e5dae171\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\f85e6133bc92275559986eab66c06e6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\f85e6133bc92275559986eab66c06e6a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3bb3e374d070c4535562d886c482b09b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\3bb3e374d070c4535562d886c482b09b\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e081432721cd9382078a0af5f46eac5e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\e081432721cd9382078a0af5f46eac5e\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\db7b9bb179a598e855da19811e027ead\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\db7b9bb179a598e855da19811e027ead\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0121eab1467c5403ca524bf1bee34475\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0121eab1467c5403ca524bf1bee34475\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0a4d4613b03e80726669bc79819b1560\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\0a4d4613b03e80726669bc79819b1560\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b4769e3ff3ad907ea08ed3cc6b247e1f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bahadir\.gradle\caches\transforms-3\b4769e3ff3ad907ea08ed3cc6b247e1f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bahadir\AndroidStudioProjects\Bireysel\MyRepo\ikinci_hafta_fragment_activity_example_bahadirrahmiungor-master\app\src\main\AndroidManifest.xml
